@@ -30,7 +30,15 @@ public class LuckyNumbers
         use your method!
       */
     public String getLuckyNumbers() {
-        /* implement this method!  */
+       int num1 = randomIntegerBetween(1, 65);
+       int num2 = randomIntegerBetween(1, 65);
+       int num3 = randomIntegerBetween(1, 65);
+       int num4 = randomIntegerBetween(1, 65);
+       int num5 = randomIntegerBetween(1, 65);
+       int num6 = randomIntegerBetween(1, 30);
+       return "Your lucky numbers are: " + num1 +", " + num2 +", " + num3 +", " + num4 +", " + num5 +", " + "\nYour super ball number is: " + num6 ;
+
+
     }
 }
 
