@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce2739d-41db-48d0-a486-d155ff4deb4b" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/LuckyNumRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LuckyNumRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LuckyNumRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LuckyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LuckyNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666010349378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes">
+      <created>1666045658968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666045658968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -39,6 +39,7 @@ public class LuckyNumbers
        return "Your lucky numbers are: " + num1 +", " + num2 +", " + num3 +", " + num4 +", " + num5 +", " + "\nYour super ball number is: " + num6 ;
 
 
+
     }
 }
 
